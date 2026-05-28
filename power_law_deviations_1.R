@@ -4,7 +4,7 @@
 # Written by Carlos Valiente-Mullor
 #
 # Usage:
-#       Rscript power_law_deviations_1.R.R
+#       Rscript power_law_deviations_1.R
 #
 
 # Libs
@@ -13,7 +13,7 @@ library(ggplot2)
 library(minpack.lm)
 
 # Paths
-outpath="path/to/output/dir"
+outpath="path/to/output/dir/"
 
 ### 1. Generate power-law distribution ###
 
