@@ -71,7 +71,6 @@ m_sym = pd.DataFrame(data = m_values, index = rowcol_id, columns = rowcol_id)
 
 
 ## Read metadata and remove L90>100 from matrix
-#.................. --> !!!!!! [indicar estructura de "tablafinal.csv" (ver script)]
 
 # input
 myfile = spp + ".quality_summary.csv"
